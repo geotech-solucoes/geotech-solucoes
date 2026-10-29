@@ -1,115 +1,105 @@
 <div align="center">
 
-# GEOTECH
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+  <img alt="GEOTECH — Soluções inteligentes para negócios dinâmicos. Geotecnologia, dados e software em Caruaru, PE." src="./assets/banner.svg" width="100%">
+</picture>
 
-### Soluções inteligentes para negócios dinâmicos.
+<br/>
 
-**Geotecnologia • Dados • Software**
+**Transformamos lugares, dados e necessidades em soluções digitais.**
 
-📍 Caruaru, Pernambuco — `08.2828° S, 35.9737° W`
+[Sobre](#sobre) · [O que fazemos](#o-que-fazemos) · [Projetos](#projetos) · [Como trabalhamos](#como-trabalhamos) · [Tecnologia](#tecnologia) · [Equipe](#equipe) · [Contato](#contato)
 
 </div>
 
 ---
 
-## 🌍 Quem somos
+## Sobre
 
-A **Geotech** é uma startup de geotecnologia que cria soluções digitais para **organizar, conectar e representar informações de espaços reais**.
+A **Geotech** é uma empresa de geotecnologia de Caruaru, Pernambuco. Desenvolvemos software que **organiza, conecta e representa informações de espaços reais**: mapas, dados e aplicativos que transformam realidades complexas em informação utilizável.
 
-Espaços reais são complexos: as informações estão em planilhas, mapas, documentos, cadastros e GPS, mas nem sempre organizadas, conectadas ou acessíveis. Nós transformamos essa complexidade em tecnologia utilizável.
+> Antes de digitalizar um espaço, precisamos entender como ele funciona.
 
-> **Antes de digitalizar um espaço, precisamos entender como ele funciona.**
+## O que fazemos
 
-## 🧭 O que fazemos
+| | Pilar | Entregamos |
+|---|---|---|
+| 📍 | **Geolocalização** | Mapas, posicionamento, rotas e representação espacial |
+| 🗂️ | **Dados** | Estruturação, organização, filtros e integração de informações |
+| 💻 | **Software** | Aplicativos e sistemas que transformam dados em experiências |
 
-| Pilar | O que entregamos |
-|-------|------------------|
-| **📍 Geolocalização** | Mapas, posicionamento, rotas e representação espacial |
-| **🗂️ Dados** | Estruturação, organização, filtros e integração de informações |
-| **💻 Software** | Aplicativos e sistemas que transformam dados em experiências |
+Atuamos em **cidades inteligentes, mobilidade, turismo, comércio, eventos, logística, gestão pública** e **aplicativos personalizados**. Cada espaço tem necessidades diferentes, e a tecnologia precisa se adaptar a ele.
 
-Os três pilares convergem na **Geotech**.
+## Projetos
 
-## 🚀 Case em destaque: Aqui na Feira
+### Aqui na Feira
+> Tecnologia para compreender e conectar uma das maiores feiras do Brasil.
 
-Tecnologia para compreender e conectar uma das maiores feiras do Brasil: a **Feira de Caruaru**.
+Nosso primeiro grande case, desenvolvido em parceria com a **Prefeitura de Caruaru**. O projeto digitaliza e organiza as informações da Feira de Caruaru por meio de geolocalização, e o aplicativo responde a quatro perguntas: **o que tem, quem tem, onde fica e como chego**.
 
-Desenvolvido em parceria com a **Prefeitura de Caruaru**, o projeto digitaliza e organiza as informações da feira por meio de geolocalização.
+| Mapa | Dados | Experiência |
+|---|---|---|
+| Representação espacial da feira | Organização das informações por setor | Acesso via aplicativo |
 
-- 🗺️ **Mapa:** representação espacial da feira
-- 🗂️ **Dados:** organização das informações por setor
-- 📱 **Experiência:** acesso via aplicativo
+**Status:** em desenvolvimento
 
-O app responde a quatro perguntas simples: **O que tem? Quem tem? Onde fica? Como chego?**
+<details>
+<summary><b>O desafio por trás do projeto</b></summary>
 
-> 🔧 *Case em desenvolvimento.*
+<br/>
 
-## 🛠️ Método de trabalho
+O desafio não era apenas criar um mapa, e sim **estruturar uma realidade** com informações fragmentadas e diferentes formas de organização:
 
-```
-ESPAÇO  →  DADOS + LOCALIZAÇÃO  →  TECNOLOGIA
-```
+- Diferentes estruturas de informação e dados distribuídos entre setores
+- Necessidade de padronização e de unificar as formas de organização dos dados
+- Dificuldade de quantificação
+- Necessidade de compreender os processos existentes
 
-1. **Compreender:** conhecer o espaço e seus processos
-2. **Organizar:** identificar e estruturar as informações
-3. **Localizar:** relacionar dados ao espaço físico
-4. **Conectar:** transformar tudo em uma solução digital
+Realidade → informações fragmentadas → padronização → dados estruturados → geolocalização → solução digital.
 
-## ⚙️ Stack tecnológica
+</details>
+
+## Como trabalhamos
+
+1. **Compreender:** conhecer o espaço e seus processos.
+2. **Organizar:** identificar e estruturar as informações.
+3. **Localizar:** relacionar os dados ao espaço físico.
+4. **Conectar:** transformar tudo em uma solução digital.
+
+## Tecnologia
 
 | Camada | Tecnologia |
-|--------|------------|
-| 📱 Aplicação | React Native |
-| 🔌 API | NestJS |
-| 🗄️ Dados espaciais | PostgreSQL / GIS |
-| 🗺️ Mapa & Geo | MapLibre • GeoJSON |
+|---|---|
+| Aplicação | React Native |
+| API | NestJS |
+| Dados espaciais | PostgreSQL / GIS |
+| Mapa e geo | MapLibre · GeoJSON |
 
-**Competências:** geolocalização • mapas interativos • dados espaciais • desenvolvimento mobile • arquitetura de software • estruturação de dados • APIs
+**Competências:** geolocalização · mapas interativos · dados espaciais · desenvolvimento mobile · arquitetura de software · estruturação de dados · APIs
 
-## 🎯 Onde podemos atuar
-
-Cidades inteligentes • Mobilidade • Turismo • Comércio • Eventos • Logística • Gestão pública • Aplicativos personalizados
-
-*Cada espaço possui necessidades diferentes. A tecnologia precisa se adaptar a ele.*
-
-## 🔭 Visão de futuro
-
-Quanto mais estruturadas as informações de um espaço, maiores as possibilidades de criar novas soluções.
-
-| Hoje | Amanhã |
-|------|--------|
-| Mapas | Indicadores |
-| Localização | Gestão |
-| Filtros | Integração |
-| Informações | Análise e novos serviços |
-
-**Localização → Mapeamento → Dados → Gestão → Inteligência**
-
-## 👥 Equipe
+## Equipe
 
 Um time fullstack construindo soluções de ponta a ponta.
 
-| Nome | Foco |
-|------|------|
-| **Poliana Sidere** | Frontend • Arquitetura (React Native, experiência mobile) |
-| **Pedro Henrique** | Backend • Banco de dados (APIs, integração de serviços) |
-| **Valmir Alfredo** | Backend (infraestrutura, banco de dados, lógica de negócio) |
-| **Wyldson Marllon** | Backend (APIs, geoprocessamento, dados espaciais) |
+| Nome | Atuação |
+|---|---|
+| **Poliana Sidere** | Frontend e arquitetura: React Native, arquitetura de aplicações e experiência mobile |
+| **Pedro Henrique** | Backend e banco de dados: APIs, estruturação de dados e integração de serviços |
+| **Valmir Alfredo** | Backend: infraestrutura, banco de dados e lógica de negócio |
+| **Wyldson Marllon** | Backend: APIs, geoprocessamento e integração de dados espaciais |
 
-## 🤝 Vamos conversar?
+## Contato
 
 Tem um espaço, um processo ou uma ideia que precisa virar solução digital? Fale com a gente.
 
-- 📸 Instagram: [@geotech.solucoes](https://instagram.com/)
-- 📧 E-mail: contato.geotechsolucoes@gmail.com
-- 🌐 Site: https://seudominio.com
+- **Instagram:** [@@geotech.solucoes](https://instagram.com/)
+- **E-mail:** [contato.geotechsolucoes@gmail.com](mailto:contato.geotechsolucoes@gmail.com)
+- **Site:** [seudominio.com](https://seudominio.com)
 
 ---
 
 <div align="center">
-
-**GEOTECH** · Transformando lugares, dados e necessidades em soluções digitais.
-
-Caruaru • Pernambuco
-
+<sub><b>GEOTECH</b> · Caruaru, Pernambuco · 08.2828° S, 35.9737° W</sub>
 </div>
